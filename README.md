@@ -238,8 +238,8 @@ class Charizard extends Pokemon{
 Ahora creamos un objeto Charizard
 #### INPUT
 ```javascript
-const chari1 = new Charizard(90, 30, 20, "Terremoto");
-chari1.fight();
+const charizard1 = new Charizard(90, 30, 20, "Terremoto");
+charizard1.fight();
 ```
 
 #### OUTPUT
