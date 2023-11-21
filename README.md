@@ -244,5 +244,5 @@ chari1.fight();
 
 #### OUTPUT
 ```javascript
-Se usó Terremoto con un ataque de 90
+Se usó Terremoto con un ataque de 30
 ```
